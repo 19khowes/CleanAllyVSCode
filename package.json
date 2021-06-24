@@ -3,6 +3,11 @@
 	"displayName": "CleanAlly",
 	"description": "A tool to clean extraneous HTML from Ally",
 	"version": "0.0.1",
+	"publisher": "kadehowes",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/microsoft/vscode-wordcount.git"
+	  },
 	"engines": {
 		"vscode": "^1.57.0"
 	},
